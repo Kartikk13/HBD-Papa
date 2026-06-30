@@ -76,7 +76,6 @@ export default function Memories() {
               />
               <div className="flex items-baseline justify-between gap-4 px-2 pt-4">
                 <p className="font-display italic text-frost">{active.caption}</p>
-                <span className="text-sm text-gold-dim">{active.year}</span>
               </div>
             </motion.div>
           </motion.div>
