@@ -1,4 +1,4 @@
-'use client';
+{/*'use client';
 
 import { motion } from 'framer-motion';
 //import { timeline } from '@/lib/content';
@@ -15,7 +15,7 @@ export default function Timeline() {
       </div>
 
       <div className="relative mx-auto mt-20 max-w-3xl">
-        {/* Spine */}
+        {/* Spine 
         <div className="absolute left-4 top-0 h-full w-px bg-gradient-to-b from-transparent via-gold-dim to-transparent md:left-1/2 md:-translate-x-1/2" />
 
         <ol className="space-y-16">
@@ -23,7 +23,7 @@ export default function Timeline() {
             const isRight = i % 2 === 1;
             return (
               <li key={item.id} className="relative">
-                {/* Marker dot */}
+                {/* Marker dot 
                 <motion.span
                   initial={{ scale: 0 }}
                   whileInView={{ scale: 1 }}
@@ -42,7 +42,7 @@ export default function Timeline() {
                   }`}
                 >
                   <div className="overflow-hidden rounded-lg">
-                    {/* Replace with personal photo */}
+                    {/* Replace with personal photo 
                     <img
                       src={item.src}
                       alt={item.title}
@@ -64,3 +64,4 @@ export default function Timeline() {
     </section>
   );
 }
+*/}
