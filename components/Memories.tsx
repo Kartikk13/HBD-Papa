@@ -45,7 +45,6 @@ export default function Memories() {
                 <p className="font-display text-sm italic text-frost-dim">
                   {memory.caption}
                 </p>
-                <span className="shrink-0 text-xs text-gold-dim">{memory.year}</span>
               </div>
             </motion.button>
           ))}
