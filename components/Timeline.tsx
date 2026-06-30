@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { timeline } from '@/lib/content';
+//import { timeline } from '@/lib/content';
 import SectionLabel from './ui/SectionLabel';
 
 export default function Timeline() {
